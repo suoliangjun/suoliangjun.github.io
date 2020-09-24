@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+<table border="0"> <tr> <td width="75%"> <h1>索良骏</h1> <p><b>本科毕业生</b></p> <p><b>石家庄铁道大学信息科学与技术学院</b></p> <p><b>邮箱：1242864287@qq.com</b></p>  </td> <td width="25%"> <img src="/zhengjianzhao.jpg" width="100%"> % 插入证件照代码 </td> </tr> </table>
 
-You can use the [editor on GitHub](https://github.com/suoliangjun/suoliangjun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+#### 学习情况 
+##### 在读期间学习了：C、C++、Java、Python等语言，并且在老师的组织下进行了为期半个月的深度学习。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### 社会活动情况
+#####
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+#### 专业实践情况
+#####
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+#### 专业技能展示
+#####
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suoliangjun/suoliangjun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### 专业博客发表
+##### 在博客园上发表了多篇有关专业的博文。（博客园地址：https://www.cnblogs.com/sljslj/）
