@@ -1,4 +1,4 @@
-<table border="0"> <tr> <td width="75%"> <h1>索良骏</h1> <p><b>本科毕业生</b></p> <p><b>石家庄铁道大学信息科学与技术学院</b></p> <p><b>邮箱：1242864287@qq.com</b></p>  </td> <td width="25%"> <img src="/zhengjianzhao.jpg" width="100%"> % 插入证件照代码 </td> </tr> </table>
+<table border="0"> <tr> <td width="75%"> <h1>索良骏</h1> <p><b>本科毕业生</b></p> <p><b>石家庄铁道大学信息科学与技术学院</b></p> <p><b>邮箱：1242864287@qq.com</b></p>  </td> <td width="25%"> <img src="/zhengjianzhao.jpg" width="100%">  </td> </tr> </table>
 
 
 
